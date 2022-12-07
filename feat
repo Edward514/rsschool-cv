@@ -1,0 +1,1 @@
+feat: allow provided config object to extend other configs
