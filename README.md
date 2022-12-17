@@ -1,1 +1,1 @@
-# rsschool-cv https://github.com/Edward514/rsschool-cv-html.git
+# rsschool-cv https://github.com/Edward514/rsschool-cv.git
