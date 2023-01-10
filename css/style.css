@@ -8,7 +8,7 @@
    
 }
 body{
-    background-color: #080808;
+    background-color: #fff;
     font-family: 'Work Sans', sans-serif;
     color: #fff;
 }
@@ -25,7 +25,7 @@ body{
     left: 0;
     right: 0;
     z-index: 5;
-    background-color: #080808;
+    background-color: #fff;
 }
 .header_conteiner {
     display: flex;
@@ -56,7 +56,7 @@ body{
     font-size: 14px;
     font-weight: 600;
     text-transform: uppercase;
-    color: #e3e4e6;
+    color: #32CD32;
     text-decoration: none;
     position: relative;
 }
@@ -122,11 +122,11 @@ body{
     text-align: center;
     line-height: 150%;
     letter-spacing: -0.02em;
-    color: rgba(227, 228, 230, 0.55);
+    color: #32CD32;
 }
 .hero_title span{
     font-weight: 600;
-    color: #e3e4e6;
+    color: #32CD32;
 }
 .hero_arrow {
     border: none;
@@ -147,12 +147,12 @@ body{
     font-size: 40px;
     line-height: 150%;
     font-weight: 600;
-    color: #e3e4e6;
+    color: #32CD32;
     max-width: 520px;
 }
 .clients_title span{
     font-weight: 300;
-    color:rgba(227, 228, 230, 0.55);
+    color:#32CD32;
 }
 .clients_body {
     margin-top: 95px;
@@ -169,10 +169,10 @@ body{
 .works_title {
     font-size: 40px;
     font-weight: 300;
-    color: rgba(227, 228, 230, 0.55);
+    color: #32CD32;
 }
 .works_title span{
-    color: #e3e4e6;
+    color: #32CD32;
     font-weight: 600;
 }
 .works_body {
@@ -205,23 +205,23 @@ body{
     font-weight: 600;
     letter-spacing: 0.04em;
     text-transform: uppercase;
-    color: #e3e4e6;
+    color: #32CD32;
     margin-bottom: 16px;
 }
 .card_text {
     font-weight: 300;
     font-size: 32px;
     line-height: 150%;
-    color: rgba(227, 228, 230, 0.55);
+    color: #32CD32;
     margin-bottom: 24px;
 }
 .card_text span {
-    color: #e3e4e6;
+    color: #32CD32;
     font-weight: 600;
 }
 .card_category {
     font-size: 18px;
-    color: #e3e4e6;
+    color: #32CD32;
 }
 .card_button {
     display: inline-block;
@@ -229,7 +229,7 @@ body{
     padding: 8px 48px 8px 16px;
     border: 1px solid rgba(227, 228, 230, 0.55);
     border-radius: 100px;
-    color: #fff;
+    color: #32CD32;
     text-decoration: none;
     position: relative;
 }
@@ -262,12 +262,12 @@ body{
 .about_text {   
     font-size: 32px;
     line-height: 150%;
-    color: #e3e4e6;
+    color: #32CD32;
     font-weight: 600;    
     margin-top: 10px;
 }
 .about_text span{
-    color: rgba(227, 228, 230, 0.55);
+    color: #32CD32;
     font-weight: 300;
 }
 .about_title {
@@ -275,7 +275,7 @@ body{
     font-size: 24px;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    color: #e3e4e6;
+    color: #32CD32;
 }
 .about_gallery {
     flex: 0 0 50%;
@@ -319,18 +319,18 @@ body{
     font-size: 56px;
     letter-spacing: -0.02em;
     margin-bottom: 24px;
-    color: #e3e4e6;
+    color: #32CD32;
     font-weight: 600;
 }
 .footer_tittle span {
     font-weight: 300;
-    color: rgba(227, 228, 230, 0.55);
+    color: #32CD32;
 
 }
 .footer_subtitle {
     font-weight: 300;
     font-size: 18px;
-    color: #e3e4e6;
+    color: #32CD32;
 }
 .footer_socials {
     display: flex;
@@ -341,15 +341,15 @@ body{
     margin-right: 55px;
 }
 .footer_social svg{
-    fill: #7e7e7f;
+    fill: #32CD32;
     transition: all .2s;
 }
 .footer_social:hover svg{
-    fill: #fff;
+    fill: #32CD32;
     transform: scale(1.2);
 }
 .footer_img:hover img{
-    fill: #fff;
+    fill: #32CD32;
     transform: scale(1.2);
     transition: all .2s;
 }
